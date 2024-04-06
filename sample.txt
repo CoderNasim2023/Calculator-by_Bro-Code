@@ -1,3 +1,0 @@
-this is a Calculator project completed by Md Nasim Akhtar.
-
-heere include 3 files html ,css and Javascript file.
